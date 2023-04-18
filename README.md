@@ -1,2 +1,3 @@
 # Cinema ETEC
-![image](https://user-images.githubusercontent.com/85528622/170794943-4e9d3d65-6e1c-4a59-990c-79186777b043.png)
+
+![image](https://user-images.githubusercontent.com/85528622/232868611-52b92736-948a-479f-8388-4cd91f990b20.png)
