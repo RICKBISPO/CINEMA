@@ -13,7 +13,7 @@ Para utilizar a aplicação, basta seguir os seguintes passos:
 
 - Execute a aplicação e a janela do sistema de cinema será aberta.
 
-- Insira o nome do filme e selecione a sala e o dia da semana.
+- Insira o nome do filme, selecione a sala e o dia da semana.
 
 - Clique no botão "Calcular desconto" para calcular o preço do ingresso com base no dia da semana.
 
